@@ -1,5 +1,7 @@
 # Python Quant Journey (30 Days)
 
+**Aditya Bhushan**
+
 Background:
 - B.Sc. Statistics (Hons), Ramjas College, DU
 - Aspiring Quantitative Researcher - Quantitative Finance
