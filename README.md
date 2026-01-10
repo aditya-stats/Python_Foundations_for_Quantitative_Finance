@@ -1,4 +1,4 @@
-# Python Quant Journey (30 Days)
+# Python Quant Journey - 30 Days
 
 **Aditya Bhushan**
 
