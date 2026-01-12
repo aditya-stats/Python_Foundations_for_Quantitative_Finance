@@ -9,3 +9,8 @@
 **Concepts:** int, float, string, bool, Type conversion, input()
 
 **File:** day02_datatypes_input.py
+
+## Day 03 - Lists and tuples
+**Concepts:** indexing,slicing,methods for lists and tuples
+
+**File** day03_lists_tuples.py
