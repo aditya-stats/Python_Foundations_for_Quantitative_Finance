@@ -13,4 +13,4 @@
 ## Day 03 - Lists and tuples
 **Concepts:** indexing,slicing,methods for lists and tuples
 
-**File** day03_lists_tuples.py
+**File:** day03_lists_tuples.py
