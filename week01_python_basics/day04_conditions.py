@@ -1,11 +1,11 @@
-#Example of using if statement
+#Example of using the if statement
 price = 180
 discount = 20
 if price >= 180:
     print("You are eligible for a discount of", discount, "units")
 
 
-#Example of using else statement
+#Example of using the else statement
 buy_price = 100
 sell_price = 108
 
@@ -14,7 +14,7 @@ if sell_price > buy_price:
 else:
     print("Trade resulted in LOSS")
 
-#Example of using elif statement
+#Example of using the elif statement
 if sell_price > buy_price:
     print("Profit")
 elif sell_price < buy_price:
