@@ -14,3 +14,8 @@
 **Concepts:** indexing,slicing,methods for lists and tuples
 
 **File:** day03_lists_tuples.py
+
+## Day 04 - Conditional statements
+**Concepts:** comparision operators, logical operators, conditionals
+
+**File:** day04_conditions.py
