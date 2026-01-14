@@ -19,3 +19,8 @@
 **Concepts:** comparision operators, logical operators, conditionals
 
 **File:** day04_conditions.py
+
+## Day 05 - Loops
+**Concepts:** for, while, range(), continue, break
+
+**File:** day05_loops.py
