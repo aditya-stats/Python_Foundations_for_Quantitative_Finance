@@ -24,3 +24,8 @@
 **Concepts:** for, while, range(), continue, break
 
 **File:** day05_loops.py
+
+## Day 06 - Functions
+**Concepts:** functions, scope, parameter, argument
+
+**File:** day06_functions.py
