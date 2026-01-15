@@ -1,13 +1,12 @@
-# Python Quant Journey - 30 Days
+# Python Foundations for Quantitative Finance
 
 **Aditya Bhushan**
 
 Background:
 - B.Sc. Statistics (Hons), Ramjas College, DU
-- Aspiring Quantitative Researcher - Quantitative Finance
+- Aspiring Quantitative Analyst, building a foundation for research-oriented roles in quantitative finance
 
-This repository documents my 30-day structured Python learning journey
-focused on statistics, finance, and quantitative analysis.
+This repository documents my structured self-study of Python with applications in statistics, finance, and quantitative analysis.
 
 Tool:
 Python
