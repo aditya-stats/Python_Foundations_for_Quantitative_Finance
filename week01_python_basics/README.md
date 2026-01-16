@@ -41,5 +41,5 @@ The project consolidates the topics learnt in Week 1 and demonstrates:
 - Loops
 - Functions
 
-The project is uploaded separately in the `projects` folder under the name `distribution-identification-tool`. It can be accessed [here](../projects/Distribution-Identification-Tool).
+The project is uploaded separately in the `projects` folder under the name `distribution-identification-tool`. It can be accessed [here](../projects/distribution-identification-tool).
 
