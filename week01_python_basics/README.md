@@ -29,3 +29,17 @@
 **Concepts:** functions, scope, parameter, argument
 
 **File:** day06_functions.py
+
+## Day 07 - Project Work
+
+After completing the first 6 days of foundational Python topics, I spent **Day 7** applying these concepts in a project titled **Distribution Identification Tool**.
+
+The project consolidates the topics learnt in Week 1 and demonstrates:
+
+- Input handling with lists
+- Conditional logic
+- Loops
+- Functions
+
+The project is uploaded separately in the `projects` folder under the name `distribution-identification-tool`. It can be accessed [here](../projects/Distribution-Identification-Tool).
+
