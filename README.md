@@ -8,5 +8,5 @@ Background:
 
 This repository documents my structured self-study of Python with applications in statistics, finance, and quantitative analysis.
 
-Tool:
-Python
+Tools:
+Python, NumPy
