@@ -9,3 +9,8 @@
 **Concepts:** reorganising arrays, random numbers, basic simulations
 
 **File:** day09_numpy_simulations.ipynb
+
+## Day 10 - Pandas Inroduction
+**Concepts:** series, dataframes, read csv
+
+**File:** day10_pandas_intro.ipynb
