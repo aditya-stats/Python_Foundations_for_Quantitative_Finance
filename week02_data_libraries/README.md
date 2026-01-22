@@ -14,3 +14,8 @@
 **Concepts:** series, dataframes, read csv
 
 **File:** day10_pandas_intro.ipynb
+
+## Day 11 - Pandas Operations
+**Concepts:** filtering, groupby, sorting
+
+**File:** day11_pandas_operations.ipynb
