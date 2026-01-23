@@ -19,3 +19,8 @@
 **Concepts:** filtering, groupby, sorting
 
 **File:** day11_pandas_operations.ipynb
+
+## Day 12 - Data Cleaning
+**Concepts:** missing & replacing values, date handling
+
+**File:** day12_data_cleaning.ipynb
