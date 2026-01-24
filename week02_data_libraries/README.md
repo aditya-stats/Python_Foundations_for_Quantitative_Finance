@@ -24,3 +24,8 @@
 **Concepts:** missing & replacing values, date handling
 
 **File:** day12_data_cleaning.ipynb
+
+## Day 13 - Data Visualization
+**Concepts:** matplotlib, line plots, histograms
+
+**File:** day13_data_visualization.ipynb
