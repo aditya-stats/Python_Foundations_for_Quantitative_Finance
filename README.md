@@ -9,4 +9,4 @@ Background:
 This repository documents my structured self-study of Python with applications in statistics, finance, and quantitative analysis.
 
 Tools:
-Python, NumPy, Pandas, Matplotlib
+Python, NumPy, Pandas, Matplotlib, SciPy

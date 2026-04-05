@@ -9,3 +9,8 @@
 **Concepts:** expected value, simulations
 
 **File:** day16_prob_sim.ipynb
+
+## Day 17 -  Normal Distribution
+**Concepts:** CLT,Z-scores
+
+**File:** day17_norm_dist.ipynb
