@@ -14,3 +14,8 @@
 **Concepts:** CLT,Z-scores
 
 **File:** day17_norm_dist.ipynb
+
+## Day 18 -  Hypothesis Testing
+**Concepts:** t-test,p val
+
+**File:** day18_hyp_testing.ipynb
